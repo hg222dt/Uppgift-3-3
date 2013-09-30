@@ -93,6 +93,8 @@ body {
     background-color: #D6CDB0;
     width: 600px;
     top: -4px;
+    padding-bottom: 60px;
+    margin-bottom: -4px;
 }
 
 img {
@@ -151,4 +153,9 @@ img {
         line-height: 25px;
     }
 
-
+#bottomcontent {
+    position: relative;
+    bottom: -50px;
+    left: 10px;
+}
+    
