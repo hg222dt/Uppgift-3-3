@@ -55,7 +55,7 @@ body {
         border-right: #4A3F2F 1px solid;
     }
     
-    #menu li:nth-word(1){
+    #menu li:first-letter{
         text-transform:uppercase;
 
     }
