@@ -59,12 +59,7 @@ body {
         text-transform:uppercase;
 
     }
-    /*
-    #menu li:first-letter {
-        text-transform:uppercase;
-        
-    }
-    */
+
     #menu a {
         position:relative;
         top: 5px;
@@ -81,6 +76,10 @@ body {
     }
     
     #menu .active {
+        background-color: #D6CDB0;
+    }
+    
+    #menu .active:hover {
         background-color: #D6CDB0;
     }
     
